@@ -40,9 +40,9 @@
 ### 📌 Projeto 1 – *Cadastro de Usuários*
 Sistema de cadastro simples com validação, armazenamento e visualização de dados em C#.
 
-![Cadastro de usuários](https://raw.githubusercontent.com/Vnwzz/Menu-SistemaEscolar/main/imagens/cadastro.png)
+![Menu Escolar](https://raw.githubusercontent.com/ViniciusHundzinski/Menu-SistemaEscolar/main/imagens/cadastro.png)
 
-🔗 [Acessar repositório](https://github.com/Vnwzz/Menu-SistemaEscolar)
+🔗 [Acessar repositório](https://github.com/ViniciusHundzinski/Menu-SistemaEscolar))
 
 ---
 
