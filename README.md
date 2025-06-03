@@ -45,9 +45,9 @@ Sistema de menu escolar com cadastro de alunos, cadastro de turmas, editar aluno
 ---
 
 ### 📌 Projeto 2 – *Portfólio Web*
-Página pessoal com HTML, CSS e JS, responsiva e moderna.
+Página de simples de cadastro de usuários e listagens, com armazenamento de dados em array e arquivos json. Programada em HTML, CSS, PHP e JS.
 
-🔗 [Acessar repositório](https://github.com/Vnwzz/NOME_DO_REPO_2)
+🔗 [Acessar repositório](https://github.com/ViniciusHundzinski/NOME_DO_REPO_2)
 
 ---
 
