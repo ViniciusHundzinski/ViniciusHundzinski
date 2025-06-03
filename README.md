@@ -37,19 +37,15 @@
 
 ## 💼 Projetos em destaque
 
-### 📌 Projeto 1 – *Cadastro de Usuários*
-Sistema de cadastro simples com validação, armazenamento e visualização de dados em C#.
+### 📌 Projeto 1 – *Menu Escolar*
+Sistema de menu escolar com cadastro de alunos, cadastro de turmas, editar aluno, editar turmas, remover alunos, visualizar turmas e alunos, visualizar alunos aprovados, reprovados e em recuperação, pesquisar aluno, exibir dados salvos, salvar dados e sair.
 
-![Menu Escolar](https://raw.githubusercontent.com/ViniciusHundzinski/Menu-SistemaEscolar/main/imagens/cadastro.png)
-
-🔗 [Acessar repositório](https://github.com/ViniciusHundzinski/Menu-SistemaEscolar))
+🔗 [Acessar repositório](https://github.com/ViniciusHundzinski/Menu-SistemaEscolar)
 
 ---
 
 ### 📌 Projeto 2 – *Portfólio Web*
 Página pessoal com HTML, CSS e JS, responsiva e moderna.
-
-![Portfólio Web](https://raw.githubusercontent.com/Vnwzz/NOME_DO_REPO_2/main/imagens/portfolio.png)
 
 🔗 [Acessar repositório](https://github.com/Vnwzz/NOME_DO_REPO_2)
 
